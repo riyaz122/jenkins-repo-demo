@@ -6,13 +6,5 @@ node{
     stage("Test")
     {
         echo "Testing the project ..."
-    }
-    stage("Deploy")
-    {
-        echo "Deploy the project ..."
-    }
-    stage("Release")
-    {
-        echo "Releasing the project ..."
-    }
-}
+   }
+ } 
