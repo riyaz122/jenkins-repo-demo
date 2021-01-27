@@ -1,0 +1,6 @@
+---
+   - hosts: all
+     tasks:
+      - name: my name
+        debug:
+           msg: hi this is hussain
