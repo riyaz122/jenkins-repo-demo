@@ -1,6 +1,6 @@
 ---
    - hosts: all
      tasks:
-      - name: my name
+      - name: my name riyaz
         debug:
            msg: hi this is riyaz
